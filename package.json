@@ -1,0 +1,14 @@
+{
+  "name": "Stock-watchlist",
+  "version": "1.0.0",
+  "description": "An app for monitoring stock prices",
+  "main": "index.js",
+  "scripts": {
+    "server-dev": "nodemon server/index.js"
+  },
+  "author": "Lavanya Ammi Chandrashekara",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.0"
+  }
+}
