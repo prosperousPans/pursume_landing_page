@@ -1,12 +1,12 @@
 {
-  "name": "Stock-watchlist",
+  "name": "Pursume_Landing_Page",
   "version": "1.0.0",
-  "description": "An app for monitoring stock prices",
+  "description": "Landing Page for Pursume IOS app",
   "main": "index.js",
   "scripts": {
-    "server-dev": "nodemon server/index.js"
+    "start": "node index.js"
   },
-  "author": "Lavanya Ammi Chandrashekara",
+  "author": "Prosperous Pans",
   "license": "ISC",
   "dependencies": {
     "express": "^4.15.0"
