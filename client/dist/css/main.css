@@ -1142,3 +1142,9 @@ article {
 #team{
   margin-bottom: 200px;
 }
+
+.gif {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
